@@ -6,7 +6,7 @@
 
 <h2>📄Certifications</h2>
 
-  - [Google Cybersecurity Professional Certificate]
+  - [Google Cybersecurity Professional Certificate] (https://imgur.com/a/tDScfEr)
     
 <h2>📺 Popular YouTube Videos</h2>
 
