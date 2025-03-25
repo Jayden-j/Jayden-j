@@ -5,6 +5,7 @@
   - [Active Directory Home Lab] (https://github.com/Jayden-j/ActiveDirectoryLab)
 
 <h2>📄Certifications</h2>
+  - [Google Cybersecurity Professional Certificate]
     
 <h2>📺 Popular YouTube Videos</h2>
 
