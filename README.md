@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab] (https://github.com/Jayden-j/ActiveDirectoryLab)
+  - [Active Directory Home Lab](https://github.com/Jayden-j/ActiveDirectoryLab)
 
 <h2>📄Certifications</h2>
 
-  - [Google Cybersecurity Professional Certificate] (https://imgur.com/a/tDScfEr)
+  - [Google Cybersecurity Professional Certificate](https://imgur.com/a/tDScfEr)
     
 <h2>📺 Popular YouTube Videos</h2>
 
