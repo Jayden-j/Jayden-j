@@ -6,7 +6,7 @@
 
 <h2>📄Certifications</h2>
 
-  - [Google Cybersecurity Professional Certificate](https://imgur.com/a/tDScfEr)
+  - [Google Cybersecurity Professional Certificate](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fcaddd35-64a2-499c-ae4e-a7c4a52fa0a2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
     
 <h2>📺 Popular YouTube Videos</h2>
 
