@@ -1,6 +1,4 @@
-<h1>Hi, I'm Jayden!</h1>
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Hey There! </h2>
 
   - [Active Directory Home Lab](https://github.com/Jayden-j/ActiveDirectoryLab)
   - [ThreatSnipe(Asset Threat Detection Service Application)](https://github.com/Jayden-j/ThreatSnipe) [ LIVE NOW](https://threatsnipe.vercel.app)
