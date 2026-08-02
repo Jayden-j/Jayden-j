@@ -1,6 +1,14 @@
-# Hey there! 👋
- 
-I'm **Jayden**, an Information Systems student at Mercer County Community College, concentrating in cybersecurity.
+<h3 align="center">Jayden Johnson | Information Systems @ Rutgers | Aspiring SOC Analyst</h3>
+specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+ </br>
+
+- 🔭 Latest Project: [](https://github.com/ioritzeguileor/Home-Lab-Attack-and-Defense)
+
+- 🌱 I’m currently learning **PenTesting Fundamentals and Studying for the COMPTIA Security + Exam**
+
+- 💬 Feel free to contact me **jayden3johnson@gmail.com**
+
+</br>
  
 <a href="https://www.linkedin.com/in/jaydenjj0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -29,10 +37,3 @@ I'm **Jayden**, an Information Systems student at Mercer County Community Colleg
 
 <h4 align="left">Software Development:</h4>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-**Fun Facts:**
- 
-- I climbed up a quarry yesterday
-- I track my nutrition as closely as I track failed logins
-- Into Web3/blockchain security on the side
-- **Focus:** detection engineering, threat monitoring, and landing a cybersecurity internship
