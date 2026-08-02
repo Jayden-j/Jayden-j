@@ -2,7 +2,7 @@
 specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
  </br>
 
-- 🔭 Latest Project: [](https://github.com/ioritzeguileor/Home-Lab-Attack-and-Defense)
+- 🔭 Latest Project: [Home-lab-Active-Directory-Attack-and-Defense-](https://github.com/Jayden-j/Home-lab-Active-Directory-Attack-and-Defense-)
 
 - 🌱 I’m currently learning **PenTesting Fundamentals and Studying for the COMPTIA Security + Exam**
 
